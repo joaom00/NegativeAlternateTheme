@@ -2,7 +2,7 @@
   "name": "negative-alternate",
   "displayName": "Negative Alternate",
   "description": "Dark Theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "joaom00",
   "engines": {
     "vscode": "^1.53.0"
