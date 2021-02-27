@@ -5,10 +5,10 @@ Versão 2.0 do [Negative Theme](https://marketplace.visualstudio.com/items?itemN
 ---
 
 HTML
-![Screenshot_1](assets/Screenshot_1.png)
+![Screenshot_1](https://user-images.githubusercontent.com/48808846/109370539-83a8f580-787f-11eb-94e7-b0172d847e0f.png)
 
 JavaScript
-![Screenshot_2](assets/Screenshot_2.png)
+![Screenshot_2](https://user-images.githubusercontent.com/48808846/109370568-a3401e00-787f-11eb-8da1-dcc02e8342f9.png)
 
 ## Instalação
 
